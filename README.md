@@ -7,19 +7,11 @@
     <a href="https://github.com/rennan2020" target="_blank">
 </div>
 
-# Padrin Barbeiro
+# Yago Barbeiro
 
 Uma simples página feita para um amigo barbeiro utilizando HTML, CSS e um pouquinho de JavaScript.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c0a8e42d-208a-41cd-aabe-c5f405a37e3b/deploy-status)](https://padrinbarbeiro.netlify.app/)
 
-<div align="center" >
-  <img src="./github/notebook.png" alt="demo-web" height="500">
-</div>
-
-<div align="center" >
-  <img src="./github/mobile.png" alt="demo-web" height="500">
-</div>
 
 # 🛠️ Tecnologias
 
@@ -29,23 +21,6 @@ Uma simples página feita para um amigo barbeiro utilizando HTML, CSS e um pouqu
 
 💻 JavaScript
 
-
-## :camera: Veja:
-
-### 🖥️ Desktop
-
-![GIF](github/desktop.gif)
-![GIF](github/desktop2.gif)
-
-### 📱 Mobile
-
-![GIF](github/mobile.gif)
-![GIF](github/mobile2.gif)
-
-
-### ☑️ Código:
-
-![image](github/codigo.JPG)
 
 ## Agradecimentos a Yago
 
