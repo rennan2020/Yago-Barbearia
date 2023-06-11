@@ -531,11 +531,13 @@ html {
         padding-left: 10%;
         justify-content: center;
         align-items: center;
+        margin: 0%;
     }
 
     .home .home-info {
-        max-width: 30%;
+        max-width: 50%;
         text-align: left;
+        margin: 0%;
     }
 
     .home .home-info .home-info-subheading {
@@ -544,7 +546,8 @@ html {
     }
 
     .home .home-img {
-        min-width: 400px;
+
+        /* min-width: 500px; */
         max-width: 1000px;
     }
 
