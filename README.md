@@ -4,11 +4,7 @@
 
 <div align="center">
     <h3> 🪒 Seu Barbeiro da Vida 🪒 </h3>
-    <a href="https://github.com/PedroCantanhede" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=Author&message=PedroCantanhede&color=000000&style=for-the-badge" target="_blank" alt="Pedro Cantanhêde">
-    </a>
-    <img src="https://img.shields.io/github/repo-size/PedroCantanhede/Landing-Page-Barber?color=000000&style=for-the-badge" alt="Repositório"> 
-    <img src="https://img.shields.io/github/languages/count/PedroCantanhede/Landing-Page-Barber?color=000000&style=for-the-badge" alt="Linguagens">
+    <a href="https://github.com/rennan2020" target="_blank">
 </div>
 
 # Padrin Barbeiro
